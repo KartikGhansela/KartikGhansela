@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌌 I’m currently working on:<br>An exciting project titled 'Smart Contracts for Organ Donation Matching with AI,' combining AI and blockchain to create a secure, transparent system for matching organ donors and recipients.<br>🤝 I’m looking to collaborate on:<br>AI-driven innovations, blockchain applications, and impactful open-source projects.<br>🧑‍💻 I’m looking for help with:<br>Optimizing smart contract implementation and enhancing AI models for real-world use cases.<br>🌱 I’m currently learning:<br>Advanced blockchain integration, AI ethics, and the latest developments in machine learning.<br>💬 Ask me about:<br>AI, machine learning, blockchain, and creative tech problem-solving.<br>⚡ Fun fact:<br>I thrive on exploring new technologies and love participating in hackathons to transform innovative ideas into reality!
-
+just a curious guy!.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik__ghansela) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KartikGhansela) 
